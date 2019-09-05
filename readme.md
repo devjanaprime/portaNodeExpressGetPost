@@ -1,3 +1,10 @@
+Vids:
+---
+https://vimeo.com/358129634
+https://vimeo.com/358129760
+https://vimeo.com/358129877
+https://vimeo.com/358129975
+
 Node/Express setup
 ===
 
@@ -14,7 +21,7 @@ Step 1: setup
 - create `server/public` folder
 - in `public`: create `index.html`, `scripts` folder, & `vendors` folder
 
-Step 2: spinning up server (vid: URL)
+Step 2: spinning up server
 ---
 
 in server.js:
