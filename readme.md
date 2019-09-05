@@ -1,9 +1,10 @@
 Vids:
 ---
-https://vimeo.com/358129634
-https://vimeo.com/358129760
-https://vimeo.com/358129877
-https://vimeo.com/358129975
+
+- https://vimeo.com/358129634
+- https://vimeo.com/358129760
+- https://vimeo.com/358129877
+- https://vimeo.com/358129975
 
 Node/Express setup
 ===
